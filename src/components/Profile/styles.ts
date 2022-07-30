@@ -11,7 +11,7 @@ export const Avatar = styled.img`
   width: 100px;
   height: 100px;
   border-radius: 10px;
-  border: 2px solid #a277ff;
+  border: 2px solid var(--highlight);
 `
 
 export const Username = styled.h2`

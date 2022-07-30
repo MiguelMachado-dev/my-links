@@ -10,7 +10,6 @@ const bioData = {
 }
 
 // TODO: Lib para SEO - Title, twitter card, etc...
-// TODO: Lib para icons
 // TODO: PWA
 
 function App() {

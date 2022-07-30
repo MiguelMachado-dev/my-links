@@ -2,7 +2,7 @@ import styled from 'styled-components'
 
 export const SocialLinksWrapper = styled.nav`
   width: 100%;
-  margin-top: 3.2rem;
+  margin-top: 4.6rem;
   margin-bottom: 7.2rem;
 `
 

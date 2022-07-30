@@ -37,11 +37,6 @@ export const SocialLinksList = styled.ul`
   }
 `
 
-export const IconWrapper = styled.div`
-  width: 30px;
-  height: 30px;
-`
-
 export const IconAndTitle = styled.div`
   display: flex;
   align-items: center;

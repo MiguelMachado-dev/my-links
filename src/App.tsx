@@ -8,6 +8,10 @@ const bioData = {
     'Tenho 24 anos e trabalho como Frontend Engineer na Uber. Entusiasta de tecnologia e amante de jogos!',
 }
 
+// TODO: Lib para SEO - Title, twitter card, etc...
+// TODO: Lib para icons
+// TODO: PWA
+
 function App() {
   return (
     <Container>

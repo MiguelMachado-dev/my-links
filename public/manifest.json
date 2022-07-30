@@ -1,0 +1,16 @@
+{
+  "name": "Meus Links - Miguel Machado",
+  "short_name": "Links Miguel",
+  "icons": [
+    {
+      "src": "/mmcoding-icon.png",
+      "type": "image/png",
+      "sizes": "256x256"
+    }
+  ],
+  "background_color": "#15141b",
+  "theme_color": "#15141b",
+  "description": "Todos os links, redes sociais e projetos de Miguel Machado. Frontend Engineer.",
+  "display": "fullscreen",
+  "start_url": "/"
+}

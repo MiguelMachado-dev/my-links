@@ -8,6 +8,7 @@
     "build": "tsc && vite build",
     "preview": "vite preview",
     "lint": "eslint src --max-warnings=0",
+    "typecheck": "bash -c tsc --project tsconfig.json --noEmit",
     "prepare": "husky install"
   },
   "dependencies": {
@@ -18,8 +19,9 @@
     "styled-components": "^5.3.5"
   },
   "lint-staged": {
-    "src/**/*.{ts,tsx}": [
-      "yarn lint --fix"
+    "src/**/*.{js,jsx,ts,tsx}": [
+      "yarn lint --fix",
+      "yarn typecheck"
     ]
   },
   "devDependencies": {

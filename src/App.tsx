@@ -1,3 +1,4 @@
+import { SocialLinks } from './components/SocialLinks'
 import { Bio } from './components/Bio'
 import { Container } from './components/Container'
 import { Profile } from './components/Profile'
@@ -17,6 +18,7 @@ function App() {
     <Container>
       <Profile />
       <Bio data={bioData} />
+      <SocialLinks />
     </Container>
   )
 }

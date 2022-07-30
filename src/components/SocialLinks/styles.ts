@@ -10,10 +10,11 @@ export const SocialItem = styled.li`
   background-color: var(--mediumBackground);
   border: 2px solid var(--borders);
   border-radius: 10px;
-  transition: filter 0.2s ease;
+  transition: filter 0.2s ease, transform 0.2s ease;
 
   &:hover {
     filter: contrast(108%);
+    transform: scale(1.1);
   }
 `
 

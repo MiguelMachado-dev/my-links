@@ -6,7 +6,7 @@ export const BioWrapper = styled.div`
   padding: 3.6rem 2rem;
 
   background-color: var(--highlight);
-  color: var(--black);
+  color: var(--background);
   border-radius: 10px;
   margin-top: 3.2rem;
 `

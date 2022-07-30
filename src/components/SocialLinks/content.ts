@@ -1,41 +1,33 @@
-import {
-  GithubLogo as Github,
-  TwitterLogo as Twitter,
-  LinkedinLogo as Linkedin,
-  InstagramLogo as Instagram,
-  HouseLine as Blog,
-} from 'phosphor-react'
-
 const links = [
   {
-    label: 'Blog',
+    label: 'HouseLine',
     title: 'Meu blog',
     url: 'https://miguelmachado.dev',
-    icon: Blog,
   },
   {
-    label: 'Github',
+    label: 'GithubLogo',
     title: 'GitHub',
     url: 'https://github.com/MiguelMachado-dev',
-    icon: Github,
   },
   {
-    label: 'Twitter',
+    label: 'TwitterLogo',
     title: 'Twitter',
     url: 'https://twitter.com/oMigtito',
-    icon: Twitter,
   },
   {
-    label: 'Linkedin',
+    label: 'LinkedinLogo',
     title: 'LinkedIn',
     url: 'https://linkedin.com/in/miguel-machado/',
-    icon: Linkedin,
   },
   {
-    label: 'Instagram',
+    label: 'InstagramLogo',
     title: 'Instagram',
     url: 'https://instagram.com/omigtito',
-    icon: Instagram,
+  },
+  {
+    label: 'TwitchLogo',
+    title: 'Twitch',
+    url: 'https://twitch.tv/Migtito',
   },
 ]
 

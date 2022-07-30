@@ -2,6 +2,7 @@ import { SocialLinks } from './components/SocialLinks'
 import { Bio } from './components/Bio'
 import { Container } from './components/Container'
 import { Profile } from './components/Profile'
+import { Share } from './components/Share'
 
 const bioData = {
   title: 'Olá 👋',
@@ -18,6 +19,8 @@ function App() {
       <Profile />
       <Bio data={bioData} />
       <SocialLinks />
+
+      <Share />
     </Container>
   )
 }

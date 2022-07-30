@@ -3,7 +3,7 @@ import styled from 'styled-components'
 export const SocialLinksWrapper = styled.nav`
   width: 100%;
   margin-top: 4.6rem;
-  margin-bottom: 7.2rem;
+  margin-bottom: 4.8rem;
 `
 
 export const SocialItem = styled.li`

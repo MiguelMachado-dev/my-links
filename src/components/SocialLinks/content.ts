@@ -8,7 +8,7 @@ import {
 
 const links = [
   {
-    label: 'HomeAlt',
+    label: 'Blog',
     title: 'Meu blog',
     url: 'https://miguelmachado.dev',
     icon: Blog,

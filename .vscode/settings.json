@@ -6,7 +6,6 @@
     "source.fixAll.eslint": true
   },
   "cSpell.language": "en,pt-BR",
-  "testing.automaticallyOpenPeekView": "never",
   "vitest.commandLine": "yarn test",
   "vitest.enable": true,
   "vitest.include": [

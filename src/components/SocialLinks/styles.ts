@@ -14,7 +14,7 @@ export const SocialItem = styled.li`
 
   &:hover {
     filter: contrast(108%);
-    transform: scale(1.1);
+    transform: scale(1.06);
   }
 `
 

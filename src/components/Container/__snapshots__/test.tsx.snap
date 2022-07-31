@@ -1,0 +1,38 @@
+// Vitest Snapshot v1
+
+exports[`<Container /> > should render <Container /> correctly 1`] = `
+<h2>
+  Test
+</h2>
+`;
+
+exports[`<Container /> > should render <Container /> correctly 2`] = `
+.c0 {
+  width: 100%;
+  max-width: 60rem;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 1.6rem;
+  padding-right: 1.6rem;
+  padding-top: 7.2rem;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+<div
+  class="c0"
+>
+  <h2>
+    Test
+  </h2>
+</div>
+`;

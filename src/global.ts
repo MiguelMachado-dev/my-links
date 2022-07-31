@@ -23,6 +23,7 @@ export const GlobalStyle = createGlobalStyle`
   }
 
   body {
+    font-size: 1.6rem;
     font-family: 'Poppins', sans-serif;
     background-color: #15141b;
     color: #edecee;

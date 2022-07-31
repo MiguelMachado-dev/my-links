@@ -1,0 +1,15 @@
+{
+  "files.eol": "\r\n",
+  "editor.formatOnSave": false,
+  "editor.tabSize": 2,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "cSpell.language": "en,pt-BR",
+  "testing.automaticallyOpenPeekView": "never",
+  "vitest.commandLine": "yarn test",
+  "vitest.enable": true,
+  "vitest.include": [
+    "**/*(*.)?{test,spec}.{js,mjs,cjs,ts,mts,cts,jsx,tsx}"
+  ],
+}

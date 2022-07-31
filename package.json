@@ -20,13 +20,6 @@
     "react-share": "^4.4.0",
     "styled-components": "^5.3.5"
   },
-  "lint-staged": {
-    "src/**/*.{js,jsx,ts,tsx}": [
-      "yarn lint --fix",
-      "yarn typecheck",
-      "yarn test run"
-    ]
-  },
   "devDependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",

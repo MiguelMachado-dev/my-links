@@ -1,0 +1,30 @@
+// Vitest Snapshot v1
+
+exports[`<Bio /> > should render <Bio /> correctly 1`] = `
+.c0 {
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  padding-bottom: 1.6rem;
+}
+
+<h3
+  class="c0"
+>
+  Olá 👋
+</h3>
+`;
+
+exports[`<Bio /> > should render <Bio /> correctly 2`] = `
+.c0 {
+  font-size: 1.6rem;
+  line-height: 1.5;
+  font-weight: 500;
+}
+
+<p
+  class="c0"
+>
+  Tenho 24 anos e trabalho como Frontend Engineer na Uber. Entusiasta de tecnologia e amante de jogos!
+</p>
+`;

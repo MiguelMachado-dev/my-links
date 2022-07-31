@@ -12,16 +12,18 @@ describe('<Bio />', () => {
   it('should render <Bio /> correctly', () => {
     render(<Bio data={bioData} />)
 
-    expect(
-      screen.getByRole('heading', {
-        name: /olá 👋/i,
-      })
-    ).toBeInTheDocument()
+    const heading = screen.getByRole('heading', {
+      name: /olá 👋/i,
+    })
 
-    expect(
-      screen.getByText(
-        /tenho 24 anos e trabalho como frontend engineer na uber\. entusiasta de tecnologia e amante de jogos!/i
-      )
-    ).toBeInTheDocument()
+    const content = screen.getByText(
+      /tenho 24 anos e trabalho como frontend engineer na uber\. entusiasta de tecnologia e amante de jogos!/i
+    )
+
+    expect(heading).toBeInTheDocument()
+    expect(content).toBeInTheDocument()
+
+    expect(heading).toMatchSnapshot()
+    expect(content).toMatchSnapshot()
   })
 })

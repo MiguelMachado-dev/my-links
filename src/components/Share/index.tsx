@@ -29,11 +29,7 @@ export const Share = () => {
           <WhatsappIcon {...buttonProps} />
         </WhatsappShareButton>
 
-        <TwitterShareButton
-          url={WEBSITE_URL}
-          via="oMigtito"
-          hashtags={['bolhaDev']}
-        >
+        <TwitterShareButton url={WEBSITE_URL} via="oMigtito">
           <TwitterIcon {...buttonProps} />
         </TwitterShareButton>
       </S.ShareActions>

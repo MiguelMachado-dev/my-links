@@ -4,7 +4,7 @@ export default {
 
     if (!findTests) return ['yarn lint']
 
-    return ['yarn lint', `yarn vitest run related ${findTests.join(' ')}`]
+    return ['yarn lint', `yarn vitest run related ${findTests}`]
 
     console.log(findTests)
   },

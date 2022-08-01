@@ -11,5 +11,11 @@ describe('<Share />', () => {
         name: /compartilhe:/i,
       })
     ).toBeInTheDocument()
+
+    expect(
+      screen.getByRole('heading', {
+        name: /compartilhe:/i,
+      })
+    ).toMatchSnapshot()
   })
 })

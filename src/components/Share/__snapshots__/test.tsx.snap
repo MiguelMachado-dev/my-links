@@ -1,0 +1,16 @@
+// Vitest Snapshot v1
+
+exports[`<Share /> > should render <Share /> correctly 1`] = `
+.c0 {
+  font-size: 1.4rem;
+  line-height: 1.5;
+  margin-bottom: 0.6rem;
+  text-align: center;
+}
+
+<h3
+  class="c0"
+>
+  Compartilhe:
+</h3>
+`;

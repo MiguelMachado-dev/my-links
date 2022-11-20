@@ -15,6 +15,11 @@ const links = [
     url: 'https://twitter.com/oMigtito',
   },
   {
+    label: 'Browser',
+    title: 'Mastodon ',
+    url: 'https://ravenation.club/@Migtito',
+  },
+  {
     label: 'LinkedinLogo',
     title: 'LinkedIn',
     url: 'https://linkedin.com/in/miguel-machado/',

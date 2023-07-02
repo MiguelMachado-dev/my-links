@@ -16,8 +16,8 @@ const links = [
   },
   {
     label: 'Browser',
-    title: 'Mastodon ',
-    url: 'https://ravenation.club/@Migtito',
+    title: 'Mastodon',
+    url: 'https://mastodon.social/@theMigtito',
   },
   {
     label: 'LinkedinLogo',

@@ -19,7 +19,7 @@ export const SocialLinks = () => {
                 href={link.url}
                 title={link.title}
                 target="_blank"
-                rel="noopener noreferrer nofollow"
+                rel="me noopener noreferrer nofollow"
               >
                 <S.IconAndTitle>
                   <SocialIcon size={32} weight="duotone" />

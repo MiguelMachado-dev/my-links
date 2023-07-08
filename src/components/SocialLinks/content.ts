@@ -10,9 +10,14 @@ const links = [
     url: 'https://github.com/MiguelMachado-dev',
   },
   {
+    label: 'LinkedinLogo',
+    title: 'LinkedIn',
+    url: 'https://linkedin.com/in/miguel-machado',
+  },
+  {
     label: 'Sun',
     title: 'Bluesky',
-    url: 'https://bsky.app/profile/migtito.bsky.social',
+    url: 'https://bsky.app/profile/miguelmachado.dev',
   },
   {
     label: 'TwitterLogo',
@@ -23,11 +28,6 @@ const links = [
     label: 'Browser',
     title: 'Mastodon',
     url: 'https://mastodon.social/@theMigtito',
-  },
-  {
-    label: 'LinkedinLogo',
-    title: 'LinkedIn',
-    url: 'https://linkedin.com/in/miguel-machado',
   },
   {
     label: 'InstagramLogo',

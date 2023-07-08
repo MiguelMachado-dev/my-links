@@ -14,6 +14,6 @@ describe('<Profile />', () => {
       })
     ).toBeInTheDocument()
 
-    expect(screen.getByText(/frontend engineer @ uber/i)).toBeInTheDocument()
+    expect(screen.getByText(/software engineer @ globant/i)).toBeInTheDocument()
   })
 })

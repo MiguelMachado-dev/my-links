@@ -7,7 +7,7 @@ export const Profile = () => {
 
       <S.UserInfo>
         <S.Username>Miguel Machado</S.Username>
-        <S.Role>Frontend Engineer @ Uber</S.Role>
+        <S.Role>Software Engineer @ Globant</S.Role>
       </S.UserInfo>
     </S.ProfileWrapper>
   )

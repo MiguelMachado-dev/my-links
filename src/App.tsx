@@ -7,7 +7,7 @@ import { Share } from './components/Share'
 const bioData = {
   title: 'Olá 👋',
   content:
-    'Tenho 24 anos e trabalho como Frontend Engineer na Globant. Entusiasta de tecnologia e amante de jogos!',
+    'Tenho 25 anos e trabalho como Software Engineer na Globant. Entusiasta de tecnologia e amante de jogos!',
 }
 
 // TODO: Lib para SEO - Title, twitter card, etc...

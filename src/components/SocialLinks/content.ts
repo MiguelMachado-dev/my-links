@@ -26,8 +26,8 @@ const links = [
   },
   {
     label: 'Browser',
-    title: 'Mastodon',
-    url: 'https://mastodon.social/@theMigtito',
+    title: 'Steam Player Count Guesser Game',
+    url: 'https://last-peak-players.miguelmachado.dev',
   },
   {
     label: 'InstagramLogo',

@@ -15,14 +15,14 @@ const links = [
     url: 'https://linkedin.com/in/miguel-machado',
   },
   {
+    label: 'YoutubeLogo',
+    title: 'Meu canal nmop YouTube',
+    url: 'https://bit.ly/4dDAgSK',
+  },
+  {
     label: 'Sun',
     title: 'Bluesky',
     url: 'https://bsky.app/profile/miguelmachado.dev',
-  },
-  {
-    label: 'TwitterLogo',
-    title: 'Twitter',
-    url: 'https://twitter.com/oMigtito',
   },
   {
     label: 'Browser',

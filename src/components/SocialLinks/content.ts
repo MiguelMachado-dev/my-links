@@ -16,7 +16,7 @@ const links = [
   },
   {
     label: 'YoutubeLogo',
-    title: 'Meu canal nmop YouTube',
+    title: 'Meu canal no YouTube',
     url: 'https://bit.ly/4dDAgSK',
   },
   {
